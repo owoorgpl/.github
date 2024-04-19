@@ -1,5 +1,3 @@
-# Stowarzyszenie OwO
-
 ## Dane podmiotu
 
 STOWARZYSZENIE OWO  
