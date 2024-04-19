@@ -1,6 +1,6 @@
-## Stowarzyszenie OwO
+# Stowarzyszenie OwO
 
-# Dane podmiotu
+## Dane podmiotu
 
 STOWARZYSZENIE OWO
 UL. ZAMKNIĘTA 10 /1.5
