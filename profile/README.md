@@ -1,7 +1,7 @@
 ## Dane podmiotu
 
 STOWARZYSZENIE OWO  
-UL. ZAMKNIĘTA 10 /1.5  
+UL. ZAMKNIĘTA 10 / 1.5  
 30-554 KRAKÓW  
 
 KRS 0001100597  
